@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+data/
+*.duckdb
+*.duckdb.wal
+dbt_fhir/target/
+dbt_fhir/logs/
+dbt_fhir/dbt_packages/
+logs/
+.DS_Store
